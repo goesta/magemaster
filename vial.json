@@ -10,22 +10,22 @@
     "layouts": {
         "keymap": [
               [
-                "Next Turn",
-                "Main Step",
-                "Skip Stack",
+                "0,0",
+                "0,1",
+                "0,2",
                 {
                   "x": 0.5
                 },
-                "Confirm"
+                "0,3"
               ],
               [
-                "Prior End",
-                "End",
-                "To ya Turn",
+                "1,0",
+                "1,1",
+                "1,2",
                 {
                   "x": 0.5
                 },
-                "Cancel Skip"
+                "1,3"
               ]
         ]
     }
