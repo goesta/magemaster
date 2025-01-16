@@ -18,14 +18,18 @@ direct_pins = [
 [layout]
 rows = 2
 cols = 4
-layers = 1
+layers = 2
 keymap = [
     [
         ["F4", "F7", "F10", "F2"],
         # nexturn toMain SkipStack confirm
         ["F11", "F5", "F9", "F3"],
         # PreEnd End TYT Cancel
-    ]
+    ],
+    [
+        ["_", "TT(1)", "TG(2)", "_"],
+        ["_", "_", "_", "_"],
+    ],
 ]
 
 [light]
